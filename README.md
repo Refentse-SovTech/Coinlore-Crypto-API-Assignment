@@ -4,4 +4,4 @@ In our assignment, we were tasked to create a Apollo Graphql API using Coinlore 
 
  - A GraphQL API wrapping around the https://api.coinlore.net/api/global/  REST API
  - GraphQL API Query that resolves all Coins from https://api.coinlore.net/api/tickers/
- - GraphQL API Query that resolves market data for a given Coin from https://api.coinlore.net/api/coin/markets/?id={coin_id}
+ - GraphQL API Query that resolves market data for a given Coin from https://api.coinlore.net/api/coin/markets/?id=90

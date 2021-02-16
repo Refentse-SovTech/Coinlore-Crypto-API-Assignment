@@ -8,7 +8,7 @@ In our assignment, we were tasked to create a Apollo Graphql API using Coinlore 
 
 Important packages to install when running:
 
- - Axios package: npm i axios --save
+ - Axios package: •npm i axios --save•
  - Apollo Server: npm install apollo-server graphql
  - Apollo Datasource Rest: npm install apollo-datasource-rest
  

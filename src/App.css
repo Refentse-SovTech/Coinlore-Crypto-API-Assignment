@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+ 
+  
+}
+
+.App-logo {
+  height: 15vmin;
+  position: fixed;
+  left: 10px;
+  top: 10px;
+  
+  /* pointer-events: none;
+  left: 16px; */
+}
+
+
+.App-header {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(15px + 2vmin);
+  color: rgb(0, 0, 0);
+  position: relative;
+  bottom: 200px;
+}
+
+
+
